@@ -1,4 +1,4 @@
-I am not responsible for any damage or anything else used by this.
+I am not responsible for any damage or anything else used by this. I would strongly recommend downloading zip as the beta features come in.
 
 Steps:
 1. Donwload this as a zip, use this link: https://github.com/systemerror400/UBHELL/archive/refs/heads/main.zip
